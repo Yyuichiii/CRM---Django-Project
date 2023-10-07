@@ -1,11 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+{% extends "webapp/base.html" %}
+
+{% block content %}
+
 <body>
-    <h1>Hello</h1>
+    <br>
+    <br>
+    
+    <div class="text-center">
+        <h3>ProjectX.... Management at it's finest!</h3>
+        <br>
+        <h5>Keep track of your records effectively!</h5>
+
+        <hr>
+        <br>
+
+        <a href="{% url 'register'%}" class="btn btn-primary">Create your account</a>
+    </div>
 </body>
-</html>
+
+{% endblock %}
