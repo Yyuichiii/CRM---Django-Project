@@ -2,3 +2,9 @@
     border-radius: 15px;
     width: 500px;
 }
+
+.success{
+    color: green;
+    font-weight: bold;
+    text-align: center;
+}
