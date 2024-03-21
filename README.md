@@ -51,12 +51,15 @@ Make sure you have the following installed on your machine:
 
 ### Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
-![Screenshot 4](screenshots/screenshot4.png)
-![Screenshot 5](screenshots/screenshot5.png)
-![Screenshot 6](screenshots/screenshot6.png)
+![Screenshot 1](Screenshots/Screenshot_1.png)
+![Screenshot 2](Screenshots/Screenshot_2.png)
+![Screenshot 3](Screenshots/Screenshot_3.png)
+![Screenshot 4](Screenshots/Screenshot_4.png)
+![Screenshot 5](Screenshots/Screenshot_5.png)
+![Screenshot 6](Screenshots/Screenshot_6.png)
+![Screenshot 7](Screenshots/Screenshot_7.png)
+![Screenshot 8](Screenshots/Screenshot_8.png)
+
 
 ## Contributing
 
